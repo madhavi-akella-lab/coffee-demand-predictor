@@ -7,7 +7,7 @@
 
 > **Predict daily coffee demand using weather, local events, and seasonality. Reduce ingredient waste by 50% and stockouts by 75% with machine learning.**
 
-🔗 **[Live Demo](https://your-app-link.streamlit.app)**
+🔗 **[Live Demo](https://coffee-demand-predictor-dmlhdamnnjrejjg7terj7u.streamlit.app/)**
 
 ---
 
