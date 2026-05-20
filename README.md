@@ -172,4 +172,4 @@ Total annual savings  = waste_savings + stockout_savings
 
 This project was completed as part of the **UC Berkeley Executive Education: Artificial Intelligence — Business Strategies & Applications** program.
 
-🔗 [LinkedIn](https://linkedin.com/in/madhavi-akella-2b8213114) · 🌐 [Portfolio](https://stupendous-faun-a859f5.netlify.app) · ⬡ [GitHub](https://github.com/madhavi-akella-lab)
+🔗 [LinkedIn](https://linkedin.com/in/madhavi-akella-2b8213114) · 🌐 [Portfolio](https://madhavi-akella.netlify.app) · ⬡ [GitHub](https://github.com/madhavi-akella-lab)
